@@ -12,8 +12,7 @@ By the end of the setup you should have:
 5.	EMR ID from the summary page
 6.	Redshift host, port, database, username, password
 Design
- 
-Data
+------
 Data is available at data. Place this folder within the setup folder as such setup/raw_input_data/
 Setup and run
 local
