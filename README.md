@@ -35,3 +35,4 @@ Stop
 From your AWS console, stop the redshift cluster and EMR cluster In you local terminal type within your project base directory
 docker-compose -f docker-compose-LocalExecutor.yml down
 
+
